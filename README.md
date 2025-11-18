@@ -12,7 +12,7 @@
 
 ---
 
-## � About Connect I Network
+## About Connect I Network
 
 Connect I Network is a dedicated NGO based in **Dwarka Mor, Delhi**, committed to creating positive social impact through community engagement and sustainable development initiatives. Our organization focuses on connecting people, resources, and opportunities to build stronger, more resilient communities.
 
