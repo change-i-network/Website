@@ -1,4 +1,4 @@
-# Connect I Network - NGO Website
+# Connect I Network - Website
 
 ![Home Page Screenshot](https://res.cloudinary.com/dqvwf3z2c/image/upload/v1759746808/737shots_so_kpbjen.png)
 
